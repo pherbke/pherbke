@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pherbke
+- 👋 Hi, I’m Patrick
 - 👀 I’m interested in trust 
 - 🌱 I’m currently learning all about PKI,dPKI and WebOfTrust
 - 💞️ I’m looking to collaborate on above mentioned topics
